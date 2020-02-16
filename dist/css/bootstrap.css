@@ -314,7 +314,7 @@ th {
   content: "\e003";
 }
 .glyphicon-heart:before {
-  content: "\e005";
+  /* content: "\e005"; */
 }
 .glyphicon-star:before {
   content: "\e006";

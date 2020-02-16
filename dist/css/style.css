@@ -460,11 +460,11 @@ h3.agileits-title {
     display: inline-block;
     text-decoration: none;
     z-index: 1;
-    padding: 0.9em .7em;
+    /* padding: 0.9em .7em; */
     -webkit-transition: .5s linear;
     -moz-transition: .5s linear;
     transition: .5s linear;
-    border: 8px solid #fff;
+    /* border: 8px solid #fff; */
 }
 .services-grid-right h4 {
     font-size: 1.8em;
