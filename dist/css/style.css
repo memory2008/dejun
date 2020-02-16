@@ -12,6 +12,9 @@ body a{
 	text-decoration:none;
 	outline:none;
 }
+.text-right{
+    text-align: right,
+}
 h1,h2,h3,h4,h5,h6{
 	margin:0;
 	font-family: 'Bigshot One', cursive;
@@ -2582,7 +2585,7 @@ button.navbar-toggle {
     font-size: 0.8em;
 }
 .services-grid-right {
-    padding: 0;
+    /* padding: 0; */
 }
 .services-grid-right p { 
     letter-spacing: 1px;
